@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\DongDong\OneDrive\Desktop\Plane\Plane\Plane\Plane\ChuyenDoi.h(9,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DongDong\OneDrive\Desktop\Plane\Plane\Plane\Plane\ChuyenDoi.h(12,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DongDong\OneDrive\Desktop\Plane\Plane\Plane\Plane\ChuyenBay.h(22,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DongDong\OneDrive\Desktop\Plane\Plane\Plane\Plane\ChuyenBayView.h(75): warning C4715: 'ChuyenBayView::HienThiDanhSachVe': not all control paths return a value
+  Plane.vcxproj -> C:\Users\DongDong\OneDrive\Desktop\Plane\Plane\Plane\x64\Debug\Plane.exe
